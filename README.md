@@ -1,5 +1,5 @@
-Hi, welcome to my profile.
-- Currently working as a Node Enginerr.
+Hi, welcome to my github.
+- Currently working as a Node Engineer.
 - Interested in ORMs
 - Contributor of [Mikro-ORM](https://github.com/mikro-orm/mikro-orm)
 
