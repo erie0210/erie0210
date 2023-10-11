@@ -9,3 +9,5 @@ Hi, welcome to my github.
 wanna have coffee chat w. me? => [되는시간 link](https://whattime.co.kr/nanojoy)
 
 blog(KR): https://iamjoy.tistory.com/
+
+[![An image of @erie0210's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erie0210)](https://holopin.io/@erie0210)
